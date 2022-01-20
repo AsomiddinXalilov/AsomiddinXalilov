@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="left">Welcome</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
